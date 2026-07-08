@@ -1,0 +1,10 @@
+<svg width="720" height="560" viewBox="0 0 720 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="560" fill="#100907"/>
+  <circle cx="535" cy="124" r="112" fill="#F0B55B" fill-opacity=".16"/>
+  <circle cx="162" cy="418" r="142" fill="#7B2E22" fill-opacity=".25"/>
+  <path d="M318 76h84v72h-84z" fill="#30201A"/>
+  <path d="M292 148h136l47 314c6 39-24 74-63 74H308c-39 0-69-35-63-74l47-314z" fill="#25130E" stroke="#FFD29E" stroke-opacity=".32" stroke-width="4"/>
+  <path d="M317 213h86c18 0 34 13 37 31l27 158c5 30-18 57-48 57H301c-30 0-53-27-48-57l27-158c3-18 19-31 37-31z" fill="#080403"/>
+  <text x="360" y="332" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Shhh</text>
+  <text x="360" y="372" text-anchor="middle" fill="#FFD29E" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6">INTENSE</text>
+</svg>

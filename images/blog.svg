@@ -1,0 +1,13 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" fill="#080808"/>
+  <rect x="104" y="96" width="752" height="348" rx="18" fill="#141414" stroke="#fff" stroke-opacity=".12"/>
+  <circle cx="728" cy="178" r="84" fill="#BDEFFF" fill-opacity=".15"/>
+  <circle cx="214" cy="358" r="118" fill="#F0B55B" fill-opacity=".13"/>
+  <path d="M283 156h64v54h-64z" fill="#232323"/>
+  <path d="M263 210h104l34 216H229l34-216z" fill="#101010" stroke="#fff" stroke-opacity=".22" stroke-width="3"/>
+  <text x="315" y="336" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Shhh</text>
+  <text x="522" y="242" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Daily Freshness</text>
+  <text x="522" y="292" fill="#CFCFCF" font-family="Arial, Helvetica, sans-serif" font-size="22">Simple notes. Long-lasting feel.</text>
+  <path d="M522 330h242" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+  <path d="M522 366h176" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+</svg>

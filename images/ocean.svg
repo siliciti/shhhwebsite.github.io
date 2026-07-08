@@ -1,0 +1,10 @@
+<svg width="720" height="560" viewBox="0 0 720 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="560" fill="#071113"/>
+  <circle cx="544" cy="134" r="105" fill="#98EDFF" fill-opacity=".16"/>
+  <circle cx="164" cy="402" r="150" fill="#3BA6C7" fill-opacity=".18"/>
+  <path d="M318 76h84v72h-84z" fill="#16353C"/>
+  <path d="M292 148h136l47 314c6 39-24 74-63 74H308c-39 0-69-35-63-74l47-314z" fill="#0D2A31" stroke="#BDF2FF" stroke-opacity=".38" stroke-width="4"/>
+  <path d="M317 213h86c18 0 34 13 37 31l27 158c5 30-18 57-48 57H301c-30 0-53-27-48-57l27-158c3-18 19-31 37-31z" fill="#061315"/>
+  <text x="360" y="332" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Shhh</text>
+  <text x="360" y="372" text-anchor="middle" fill="#AEEBFF" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6">OCEAN</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="720" height="560" viewBox="0 0 720 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="560" fill="#070707"/>
+  <circle cx="520" cy="120" r="100" fill="#8E8E8E" fill-opacity=".11"/>
+  <circle cx="180" cy="420" r="130" fill="#C29B57" fill-opacity=".14"/>
+  <path d="M318 76h84v72h-84z" fill="#232323"/>
+  <path d="M292 148h136l47 314c6 39-24 74-63 74H308c-39 0-69-35-63-74l47-314z" fill="#151515" stroke="#fff" stroke-opacity=".22" stroke-width="4"/>
+  <path d="M317 213h86c18 0 34 13 37 31l27 158c5 30-18 57-48 57H301c-30 0-53-27-48-57l27-158c3-18 19-31 37-31z" fill="#050505"/>
+  <text x="360" y="332" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Shhh</text>
+  <text x="360" y="372" text-anchor="middle" fill="#A6A6A6" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6">MIDNIGHT</text>
+</svg>

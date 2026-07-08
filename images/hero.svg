@@ -1,0 +1,26 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="#070707"/>
+  <rect x="55" y="55" width="790" height="590" rx="24" fill="#111"/>
+  <circle cx="705" cy="160" r="92" fill="#D6F4FF" fill-opacity=".16"/>
+  <circle cx="180" cy="540" r="120" fill="#F3C577" fill-opacity=".14"/>
+  <g filter="url(#a)">
+    <path d="M317 164h68v54h-68z" fill="#222"/>
+    <path d="M296 218h110l38 320c4 34-22 64-56 64H314c-34 0-60-30-56-64l38-320z" fill="#141414" stroke="#E7E7E7" stroke-opacity=".28" stroke-width="3"/>
+    <path d="M320 268h63c14 0 27 10 29 24l24 184c3 25-16 48-42 48h-86c-26 0-45-23-42-48l24-184c2-14 15-24 30-24z" fill="#050505"/>
+    <text x="351" y="409" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Shhh</text>
+    <text x="351" y="443" text-anchor="middle" fill="#9D9D9D" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="5">MIDNIGHT</text>
+  </g>
+  <g filter="url(#a)">
+    <path d="M514 132h60v50h-60z" fill="#1B2F34"/>
+    <path d="M496 182h96l33 292c4 31-20 58-51 58h-60c-31 0-55-27-51-58l33-292z" fill="#0C262E" stroke="#B9F2FF" stroke-opacity=".35" stroke-width="3"/>
+    <path d="M516 231h56c13 0 24 9 26 22l21 168c3 23-15 43-38 43h-74c-23 0-41-20-38-43l21-168c2-13 13-22 26-22z" fill="#081114"/>
+    <text x="544" y="343" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Shhh</text>
+    <text x="544" y="372" text-anchor="middle" fill="#AEEBFF" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">OCEAN</text>
+  </g>
+  <path d="M130 154h109M664 502h106M151 198h54M682 544h52" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+  <defs>
+    <filter id="a" x="218" y="92" width="447" height="550" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000" flood-opacity=".65"/>
+    </filter>
+  </defs>
+</svg>
